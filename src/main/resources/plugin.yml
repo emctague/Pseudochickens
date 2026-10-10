@@ -1,0 +1,9 @@
+name: Pseudochickens
+description: $description
+version: '${version}'
+
+main: me.tague.pseudochickens.Pseudochickens
+api-version: '26.2'
+load: STARTUP
+
+authors: [ tague ]
